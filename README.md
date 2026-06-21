@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.png" alt="Mi Banner Profesional" width="100%">
+  <img src="Banner.png" alt="Mi Banner Profesional" width="100%">
 </div>
 
 <h3 align="center">Transformando ideas en código y soluciones reales 💻✨</h3>
@@ -48,9 +48,9 @@ He trabajado y sigo perfeccionando mis habilidades en el siguiente stack de tecn
 
 <div align="center">
   <!-- RECUERDA CAMBIAR [TU_USUARIO_AQUI] POR TU NOMBRE DE USUARIO DE GITHUB REAL -->
-  <img src="https://github-readme-stats.vercel.app/api?username=BAYRON008&show_icons=true&theme=nord&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C3D1D9&icon_color=58A6FF" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BAYRON0008&show_icons=true&theme=nord&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C3D1D9&icon_color=58A6FF" alt="Estadísticas de GitHub" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BAYRON008&layout=compact&theme=nord&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C3D1D9" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BAYRON0008&layout=compact&theme=nord&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C3D1D9" alt="Lenguajes más usados" />
 </div>
 
 ---
