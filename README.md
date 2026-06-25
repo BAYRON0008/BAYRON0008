@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Banner.png" alt="Mi Banner Profesional" width="100%">
+  <img src="Banner.png" alt="Mi Banner Profesional" style="width: 100%; height: 250px; object-fit: cover;">
 </div>
 
 <h3 align="center">Transformando ideas en código y soluciones reales 💻✨</h3>
@@ -27,18 +27,18 @@ He trabajado y sigo perfeccionando mis habilidades en el siguiente stack de tecn
   ### Front-End
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/Bootstrap-white?logo=bootstrap" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
 
   ### Back-End & Bases de Datos
-  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 
   ### Herramientas
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
   
 </div>
 
@@ -47,7 +47,6 @@ He trabajado y sigo perfeccionando mis habilidades en el siguiente stack de tecn
 ## 📊 Mis Estadísticas en GitHub
 
 <div align="center">
-  <!-- RECUERDA CAMBIAR [TU_USUARIO_AQUI] POR TU NOMBRE DE USUARIO DE GITHUB REAL -->
   <img src="https://github-readme-stats.vercel.app/api?username=BAYRON0008&show_icons=true&theme=nord&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C3D1D9&icon_color=58A6FF" alt="Estadísticas de GitHub" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BAYRON0008&layout=compact&theme=nord&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C3D1D9" alt="Lenguajes más usados" />
