@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Banner.png" alt="Mi Banner Profesional" style="width: 100%; height: auto; max-width: none; border-radius: 8px;">
+  <img src="Banner.png" alt="Mi Banner Profesional" style="width: 100%; height: 250px;">
 </div>
 
 <h3 align="center">Transformando ideas en código y soluciones reales 💻✨</h3>
@@ -35,10 +35,17 @@ He trabajado y sigo perfeccionando mis habilidades en el siguiente stack de tecn
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 
-  ### Herramientas
+  ### DevOps & Cloud
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white" alt="Railway" />
+  <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
+
+  ### Herramientas & Entornos
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP" />
   
 </div>
 
