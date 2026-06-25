@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Banner.png" alt="Mi Banner Profesional" style="width: 100%; height: 250px;">
+  <img src="Banner1.png" alt="Mi Banner Profesional" style="width: 100%;">
 </div>
 
 <h3 align="center">Transformando ideas en código y soluciones reales 💻✨</h3>
