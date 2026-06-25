@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Banner.png" alt="Mi Banner Profesional" style="width: 100%; height: 250px; object-fit: cover;">
+  <img src="Banner.png" alt="Mi Banner Profesional" style="width: 100%; height: auto; max-width: none; border-radius: 8px;">
 </div>
 
 <h3 align="center">Transformando ideas en código y soluciones reales 💻✨</h3>
